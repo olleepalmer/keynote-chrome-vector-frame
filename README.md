@@ -2,7 +2,7 @@
 
 A simple Chrome browser frame drawn in Keynote.
 
-
+![](https://raw.githubusercontent.com/olleepalmer/keynote-chrome-vector-frame/master/keynote-vector-frame-example.png)
 
 ## Author
 
